@@ -2,7 +2,7 @@
 //initioalizing jquery
 var $j = jQuery;
 //Enter image url resource here.
-var testUrl1 = 'https://fb.zeroweb.co/apps/1.png?fbclid=IwAR3XPvZpiEzUhZHN8UuigRNaZi4DA3E1gUMIJo_CTXlQmip8j9WA7o3hpFs';  
+var testUrl1 = 'enter_url_here';  
 
 var imgSrc = testUrl1;
 
